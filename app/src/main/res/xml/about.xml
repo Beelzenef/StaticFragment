@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+    <head>
+        <title>Contacto</title>
+    </head>
+    <body>
+        <h3>¡Contáctame!</h3>
+        <p>
+            <a href="https://github.com/Beelzenef">Mi perfil en GitHub</a>
+        </p>
+        <p>
+            <a href="https://twitter.com/Beelzenef_">Twittah!</a>
+        </p>
+        <p>
+            <a href="https://reddit.com/u/BeelzenefTV">Reddit!</a>
+        </p>
+    </body>
+</html>
