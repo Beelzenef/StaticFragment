@@ -1,0 +1,3 @@
+# StaticFragment
+
+Conociendo los Fragments
